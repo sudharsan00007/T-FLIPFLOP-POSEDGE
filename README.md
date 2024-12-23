@@ -1,5 +1,7 @@
 # T-FLIPFLOP-POSEDGE
 
+#DATE:04.1102024
+
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
